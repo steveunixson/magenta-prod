@@ -1,0 +1,21 @@
+body{
+    background: #d2d5d8;
+    color: black;
+    font-family: Kalapi;
+    font-weight: bolder;
+}
+.btn{
+    font-size: 32px;
+    font-weight: bolder;
+}
+.black{
+    background: black;
+    color: #d2d5d8;
+    height: 35px;
+}
+h3{
+    font-weight: bolder;
+}
+.note{
+    width: 400px;
+}

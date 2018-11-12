@@ -1,0 +1,55 @@
+body{
+    background: #ffa600;
+    color: black;
+    font-family: Kalapi;
+    font-weight: bolder;
+}
+
+.sz{
+    height: 600px
+}
+.script{
+    width: 100%;
+    height: 100%;
+    border-width: 0px;
+    border-color: black;
+}
+.on{
+    font-size: 40px;
+    color: black;
+}
+.of{
+    width: 160px;
+    height: 60px;
+    border-width: 1px;
+    border-radius: 10px;
+    border-color: black;
+}
+.black{
+    background: black;
+    color: #ffa600;
+    height: 60px;
+    width: 320px;
+    font-size: 32px;
+    border-width: 1px;
+    border-radius: 10px;
+    border-color: black;
+}
+.br{
+    border-width: 2px;
+    border-color: black;
+}
+.off{
+    background: black;
+    color: #ffa600;
+    width: 160px;
+    height: 50px;
+    border-width: 1px;
+    border-radius: 10px;
+    border-color: #ffa600;
+    font-weight: bolder;
+}
+.note{
+    width: 100%;
+    height: 70%
+}
